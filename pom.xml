@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ru.netology</groupId>
-    <artifactId>maven_tests</artifactId>
+    <artifactId>cycles2_CsvFileSource</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
